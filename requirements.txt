@@ -1,0 +1,27 @@
+# Core
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Preprocessing & Utilities
+joblib
+
+# Deployment (optional)
+streamlit
+
+# Notebook (optional)
+jupyter
+
+datetime
+time
